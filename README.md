@@ -2,4 +2,4 @@
 
 Ludo v1 Intento de implementacion de sockets
 
-Ludo v2 Intento de implementacion de lOGICA
+Ludo v2 Intento de implementacion de logica
